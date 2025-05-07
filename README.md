@@ -1,5 +1,5 @@
 # Ex. No.  - SIMULATION OF PRE PROCESSING IN ADDITIVE MANUFACTURING
-### DATE: 
+### DATE: 07-05-2025
 ## AIM:
 ### To simulate the Pre Processing for 3D printing.
 
@@ -39,14 +39,23 @@
 ### ●	If the user follows an incorrect sequence then a pop-up will appear on the screen showing the name of the process to be selected.
 
 ## OUTPUT:
-![123_1](https://github.com/Sellakumar1987/Ex.-No.-7---SIMULATION-OF-PRE--PROCESSING-IN-ADDITIVE-MANUFACTURING/assets/113594316/ec8dafd7-cb7c-4a5b-936c-41e86a32a9da)
-![123_2](https://github.com/Sellakumar1987/Ex.-No.-7---SIMULATION-OF-PRE--PROCESSING-IN-ADDITIVE-MANUFACTURING/assets/113594316/c071a941-e5b4-4b31-af63-5f9fe08cd0fb)
-![123_3](https://github.com/Sellakumar1987/Ex.-No.-7---SIMULATION-OF-PRE--PROCESSING-IN-ADDITIVE-MANUFACTURING/assets/113594316/ebb3a944-eeb0-45e8-9841-d58997840c54)
+![step 1](https://github.com/user-attachments/assets/b0ec3d67-b0de-4f75-8cfa-ce63007f15b1)
+![step 2](https://github.com/user-attachments/assets/07af3ff9-939a-451b-bd43-16222f0fc581)
+![step](https://github.com/user-attachments/assets/e7c67307-cde1-47cb-a31a-69f8ca217ebf)
+![step 4](https://github.com/user-attachments/assets/4ee343c9-e605-4668-a689-be51447139cf)
+![step 5](https://github.com/user-attachments/assets/dcff82a9-5065-4d5d-a3ae-8712f6352dba)
+![step6](https://github.com/user-attachments/assets/edfbd39f-aca8-4388-93d3-9b2863e4f4dd)
 
 ## Output:
+![Screenshot 2024-12-14 083831](https://github.com/user-attachments/assets/5b10fc89-d4f8-4b2f-aee7-55b5429af52c)
+![Screenshot 2024-12-14 083855](https://github.com/user-attachments/assets/fc919269-d44b-498e-9b9f-83763009ec0b)
+![Screenshot 2024-12-14 083930](https://github.com/user-attachments/assets/47d0e8e8-3bc9-4ad2-b0c9-fe05c62f8029)
+![Screenshot 2024-12-14 083954](https://github.com/user-attachments/assets/a552f0bb-6185-43f9-bc8e-5677f9be4a0d)
+![Screenshot 2024-12-14 084006](https://github.com/user-attachments/assets/68407ba9-3dc8-4857-b73f-a39fcd21d040)
+![Screenshot 2024-12-14 084043](https://github.com/user-attachments/assets/221a85ec-9cad-441a-b550-4862dc56edc5)
 
-### Name:
-### Register Number:
+### Name: Surya Prakash B
+### Register Number: 212224230281
 
 ## Result: 
 ### Thus the simulation on the Preprocessing in additive manufacturing is completed.
